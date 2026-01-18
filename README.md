@@ -17,4 +17,4 @@ Below is a screenshot of the algorithm in action, showing the explored nodes and
 
 ## References
 * [Wikipedia - Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
-* Inspiration from: [Nombre del video o recurso que usaste]
+* Inspiration from: [Dijkstra's Algorithm](https://youtu.be/_B5cx-WD5EA?si=VYLqLaqODUqvSDKi)
