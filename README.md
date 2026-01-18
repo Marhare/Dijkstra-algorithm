@@ -13,7 +13,7 @@ Below is a screenshot of the algorithm in action, showing the explored nodes and
 ## Technical Details
 - **Language:** Python.
 - **Logic:** Implemented using a priority queue .
-- **Visualization:** Pygame].
+- **Visualization:** Pygame.
 
 ## References
 * [Wikipedia - Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
